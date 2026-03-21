@@ -7,6 +7,7 @@ Hi, I'm Rodrigo
 🕵️‍♂️ Hands-on experience with Phishing Analysis & Threat Investigation
 📊 Learning SIEM tools & Microsoft Security Stack (Defender, Sentinel)
 🎯 Goal: Land a SOC Analyst / Cybersecurity Analyst role
+
 🛠️ Skills
 Phishing Analysis
 Threat Detection
@@ -14,6 +15,7 @@ IOC Extraction
 Log Analysis
 SIEM (learning)
 Incident Response (basics)
+
 📂 Projects
 🔎 Phishing Analysis Lab
 Analyzed malicious email samples
@@ -29,6 +31,7 @@ MXToolbox
 URLScan
 Wireshark (learning)
 Microsoft Defender (learning)
+
 📈 Currently Learning
 SIEM (Microsoft Sentinel)
 Log correlation

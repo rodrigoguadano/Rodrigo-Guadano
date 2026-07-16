@@ -41,6 +41,16 @@ Tools: VirusTotal, MXToolbox, URLScan
 
 👉 https://github.com/rodrigoguadano/Phishing-Analysis-Lab
 
+🔍 Network Traffic Analysis with Wireshark
+
+Analyzed network traffic to detect suspicious activity, network scans, and spoofing attempts
+
+Investigated Nmap TCP/SYN/UDP scans, ARP spoofing, DNS tunnelling, and TLS handshakes
+
+Tools: Wireshark, Nmap
+
+👉 https://github.com/rodrigoguadano/Network-Traffic-Analysis-with-Wireshark
+
 
 🧰 Tools
 
@@ -50,7 +60,7 @@ Tools: VirusTotal, MXToolbox, URLScan
 
 -URLScan
 
--Wireshark (learning)
+-Wireshark
 
 -Microsoft Defender (learning)
 
